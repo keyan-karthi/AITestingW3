@@ -1,0 +1,5 @@
+{
+  "baseURL": "https://staging.saucedemo.com",
+  "username": "staging_user",
+  "password": "staging_sauce"
+} 
